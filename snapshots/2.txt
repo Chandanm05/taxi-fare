@@ -1,0 +1,6 @@
+100, 20, 10
+Test used small dev_sample10
+
+~ 900k steps
+~ 7 hours
+~ RMSE 51 ?
